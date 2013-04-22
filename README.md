@@ -1,6 +1,6 @@
 # The unofficial ST bug tracking, powered by us.
 
-The idea http://www.sublimetext.com/forum/viewtopic.php?f=2&amp;t=12095 help needed please commment.
+The idea http://www.sublimetext.com/forum/viewtopic.php?f=2&t=12095 help needed please commment.
 
 There is some things to resolve:
 
