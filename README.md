@@ -8,7 +8,7 @@ We are looking for inspiration and other ideas, your comments are welcome.
 
  * This [subject] is only for Sublime Text-related bugs and not for package’s or plugin’s bugs, submit these to the packages repositories instead.
  * Be sure no package is causing the bug, start with a [clean profile](http://www.sublimetext.com/docs/3/revert.html) if you need. 
- * Search for the bug [here](https://github.com/SublimeText/BugTracking/issues/search?q=), to see if it is already there. You may use labels for filterting the issue list [here](https://github.com/SublimeText/BugTracking/issues) by clicking any of these related to the problem you are going to report.
+ * Search for the bug [here](https://github.com/SublimeText/Issues/issues/search?q=), to see if it is already there. You may use labels for filterting the issue list [here](https://github.com/SublimeText/Issues/issues) by clicking any of these related to the problem you are going to report.
 
 ## Filing a bug
 
