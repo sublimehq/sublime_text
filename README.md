@@ -15,9 +15,10 @@ We are looking for inspiration and other ideas, your comments are welcome.
  * Start with a descriptive but concise subject that quickly and uniquely identify the problem.
  * Write a summary of the problem in a few lines, giving an idea of what the bug is.
  * Then, describe the bug with all the information you can give,
- * Be sure to information about: the OS, sublime text version. Any software related, which may can cause ST to act strange.
+ * Be sure to include information about: the OS, ST version. Any software related, which may can cause ST to act strange.
  * Try to find a way to reproduce the problem, and write down precise steps. 
  * Include any code example.
+ * Workaround on how to avoid the issue will be welcome
 
 ## How to file a bug help resources:
 
