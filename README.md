@@ -1,9 +1,25 @@
-# The unofficial Sublime Text 3 bug tracking
+# The unofficial Sublime Text 3 Bug & Features
 
-The idea http://www.sublimetext.com/forum/viewtopic.php?f=2&t=12095 help needed please commment.
+This is an unofficial bug tracker for Sublime Text bugs and issues run by the community.
+Feel free to write here as you desire. For the inital idea, read here: http://www.sublimetext.com/forum/viewtopic.php?f=2&t=12095
+We are looking for inspiration and other ideas, your comments are welcome.
 
-## There is some things to resolve:
+## Before submitting a bug:
 
- 1. *DONE* The bug categories, bug severity and resolution type.
- 2. Add some guidelines to this readme in order to help users to report bugs properly. The draft is here, feel free to write ideas, and correct anything https://docs.google.com/document/d/15c5vAeEMwI_9o20dlyrAjGJ_5WkrbX2JQgN9-5tkKUk/edit?usp=sharing
+ * This [subject] is only for Sublime Text-related bugs and not for package’s or plugin’s bugs, submit these to the packages repositories instead.
+ * Be sure no package is causing the bug, start with a [clean profile](http://www.sublimetext.com/docs/3/revert.html) if you need. 
+ * Search for the bug [here](https://github.com/SublimeText/BugTracking/issues/search?q=), to see if it is already there. You may use labels for filterting the issue list [here](https://github.com/SublimeText/BugTracking/issues) by clicking any of these related to the problem you are going to report.
 
+## Filing a bug
+
+ * Start with a descriptive but concise subject that quickly and uniquely identify the problem.
+ * Write a summary of the problem in a few lines, giving an idea of what the bug is.
+ * Then, describe the bug with all the information you can give,
+ * Be sure to information about: the OS, sublime text version. Any software related, which may can cause ST to act strange.
+ * Try to find a way to reproduce the problem, and write down precise steps. 
+ * Include any code example.
+
+## How to file a bug help resources:
+
+ * http://fedoraproject.org/wiki/How_to_file_a_bug_report
+ * https://landfill.bugzilla.org/bugzilla-tip/page.cgi?id=bug-writing.html
