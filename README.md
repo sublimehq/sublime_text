@@ -13,7 +13,7 @@ Head straight to https://github.com/SublimeText/Issues/issues for a list of all 
 
 *   Make sure it isn't a package that's causing the bug. Start with a [clean profile](http://www.sublimetext.com/docs/3/revert.html) if you need. 
 
-    This repo is only for *Sublime Text-related* bugs and not for package's or plugin's bugs, submit these to the packages' repositories instead.
+    This repo is only for *Sublime Text-related* bugs only. If your issue is related to a specific package or plugin, submit your report to that package's repository instead.
 *   Search for the bug [here](https://github.com/SublimeText/Issues/issues/search?q=) to see if an issue already exists. You may use labels for filterting the issue list [here](https://github.com/SublimeText/Issues/issues) by clicking any of these related to the problem you want to report.
 
 ## Filing a bug
@@ -21,17 +21,17 @@ Head straight to https://github.com/SublimeText/Issues/issues for a list of all 
 1.  Start with a descriptive but concise **subject** that quickly and uniquely identifies the problem.
 *   Write a **summary** of the problem in a few lines, giving an idea of what the issue is about.
 *   Then, **describe** the bug with all the information you can give.
-    Be sure to include information about:
-    * your OS,
-    * the ST version, and
-    * any related software which may cause ST to act strangely.
+    Be sure to include the following information:
+    * Operating System
+    * The version of Sublime Text that you're using
+    * Any related software which may cause ST to act strangely
 *   Try to find a way to **reproduce** the problem and write down precise steps. It might be useful to include a code example for this.
 *   Workarounds or other related tips on how to avoid the issue are welcome.
 
 ## Filing an enhancement or a feature request
 
 1.  Start with a descriptive but concise subject that quickly and uniquely identifies the issue.
-*   Explain briefly what the issue is about and why you think it would be useful.
+*   Explain briefly what the enhancement is and why you think it would be useful.
 *   Provide any other necessary or useful information regarding your issue, such as (code) examples or related links.
 
 Note: "enhancements" are modifications to existing behaviour as opposed to something entirely new.
