@@ -19,18 +19,21 @@ Head straight to https://github.com/SublimeText/Issues/issues for a list of all 
 
 ## Filing a bug
 
-1.  Start with a descriptive but concise **subject** that quickly and uniquely identifies the problem.
+1.  Start with a descriptive but concise **subject** that quickly and uniquely identifies the problem.  
 *   Write a **summary** of the problem in a few lines, giving an idea of what the issue is about.
 *   Then, **describe** the bug with all the information you can give.
     Be sure to include the following information:
     * Operating System
     * The version of Sublime Text that you're using
     * Any related software which may cause ST to act strangely
+
     Also keep in mind to clearly separate fact from speculation.
 *   Try to find a way to **reproduce** the problem and write down precise steps. It might be useful to include a code example for this.
 *   Workarounds or other related tips on how to avoid the issue are welcome.
 
 We won't slaughter you if you can't fulfill all of these steps but prepare to answer a few question if we think we're lacking information.
+
+If you want to be really good at reporting bugs you can also read [these guidelines](https://landfill.bugzilla.org/bugzilla-tip/page.cgi?id=bug-writing.html) for bugzilla bugs.
 
 
 ## Filing an enhancement or a feature request
@@ -40,11 +43,3 @@ We won't slaughter you if you can't fulfill all of these steps but prepare to an
 *   Provide any other necessary or useful information regarding your issue, such as (code) examples or related links.
 
 Note: "enhancements" are modifications to existing behaviour as opposed to something entirely new.
-
----
-
-
-### Other resources on how to file a bug
-
-* http://fedoraproject.org/wiki/How_to_file_a_bug_report
-* https://landfill.bugzilla.org/bugzilla-tip/page.cgi?id=bug-writing.html
