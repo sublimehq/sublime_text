@@ -1,0 +1,14 @@
+[
+{
+    "caption": "Help",
+    "mnemonic": "H",
+    "id": "help",
+    "children":
+    [
+
+
+        { "caption": "-" },
+        { "command": "open_url", "args": {"url": "https://github.com/SublimeText/Issues"}, "caption": "Bug Tracking" },
+    ]
+}
+]
