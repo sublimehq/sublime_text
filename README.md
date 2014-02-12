@@ -28,7 +28,7 @@ Head straight to https://github.com/SublimeText/Issues/issues for a list of all 
     * Any related software which may cause ST to act strangely
 
     Also keep in mind to clearly separate fact from speculation.
-*   Try to find a way to **reproduce** the problem and write down precise steps. It might be useful to include a code example for this.
+*   Try to find a way to **reproduce** the problem and write down precise steps. It might be useful to include a code example for this. **if a specific code produces the bug, try to share the code**
 *   Workarounds or other related tips on how to avoid the issue are welcome.
 
 We won't slaughter you if you can't fulfill all of these steps but prepare to answer a few question if we think we're lacking information.
