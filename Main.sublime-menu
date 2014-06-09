@@ -1,14 +1,37 @@
 [
 {
-    "caption": "Help",
-    "mnemonic": "H",
-    "id": "help",
+    "caption": "Troubleshooting",
+    "mnemonic": "u",
+    "id": "troubleshooting",
     "children":
     [
-
-
         { "caption": "-" },
-        { "command": "open_url", "args": {"url": "https://github.com/SublimeText/Issues"}, "caption": "Bug Tracking" },
+        { "command": "issues_clipboard_information_system", "caption": "Copy to Clipboard System Information" },
+        { "command": "issues_clipboard_information_packages", "caption": "Copy to Clipboard Packages Information" },
+        { "caption": "-" },
+        { "command": "issues_pastebin_information_system", "caption": "Pastebin System Information" },
+        { "command": "issues_pastebin_information_packages", "caption": "Pastebin Packages Information" },
+        { "caption": "-" },
+        { "command": "issues_clean_cache", "caption": "Clean Caches & Run Maintenance" },
+        { "caption": "-" },
+        { "command": "issues_package_control_install", "caption": "Install Package Control" },
+        { "command": "issues_package_control_upgrade_packages", "caption": "Upgrade All Packages" },
+        { "caption": "-" },
+        { "command": "issues_packages_disable_non_default", "caption": "Disable Non-default Packages" },
+        { "command": "issues_packages_renable_last_disable", "caption": "Restore User Enabled Packages" },
+        { "caption": "-" },
+        { "command": "issues_record_actions_start", "caption": "Start Recording User Actions" },
+        { "command": "issues_record_actions_stop", "caption": "Stop Recording User Actions" },
+        { "caption": "-" },
+        { "command": "issues_fix_theme_color_scheme_restore_default", "caption": "Theme & Colour Scheme: Restore ST Defaults" },
+        { "command": "issues_fix_theme_color_scheme_restore_user", "caption": "Theme & Colour Scheme: Restore User Set" },
+        { "caption": "-" },
+        { "command": "open_url", "args": {"url": "https://github.com/SublimeText/Issues/search?q=&type=Issues"}, "caption": "Search For Bug" },
+        { "command": "open_url", "args": {"url": "https://github.com/SublimeText/Issues/issues/new"}, "caption": "Report New Bug" },
+        { "caption": "-" },
+        { "command": "issues_reset_sublime_text", "caption": "Reset Sublime Text To Its Default State" },
+        { "caption": "-" },
+
     ]
 }
 ]
