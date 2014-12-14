@@ -1,6 +1,6 @@
 # New Home
 
-This repository is now in a new location https://github.com/SublimeTextBugs . The Sublime Text forum is currently down, I'll post the announcement once is up again.
+This repository is now in a new location https://github.com/SublimeTextBugs/Issues . The Sublime Text forum is currently down, I'll post the announcement once is up again.
 
 # Sublime Text Bug and Issue Tracker
 
