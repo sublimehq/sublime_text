@@ -1,14 +1,14 @@
 ## Before creating a new issue
 
-*   Make sure it isn't a package that's causing the bug. Start with a [clean profile](http://www.sublimetext.com/docs/3/revert.html) if you need. 
+*   Make sure it isn't a package that's causing the bug. Start with a [clean profile](http://www.sublimetext.com/docs/3/revert.html) if you need.
 
     This repo is for *Sublime Text-related* bugs only. If your issue is related to a specific package or plugin, submit your report to that package's repository instead.
-*   Search for the bug [here](https://github.com/SublimeText/Issues/search?q=&type=Issues) to see if an issue like yours already exists. You may use labels for filterting the [issue list](https://github.com/SublimeText/Issues/issues) by clicking any of these related to the problem you want to report.
+*   Search for the bug [here](https://github.com/SublimeTextBugs/Issues/search?q=&type=Issues) to see if an issue like yours already exists. You may use labels for filterting the [issue list](https://github.com/SublimeTextBugs/Issues/issues) by clicking any of these related to the problem you want to report.
 
 
 ## Filing a bug
 
-1.  Start with a descriptive but concise **subject** that quickly and uniquely identifies the problem.  
+1.  Start with a descriptive but concise **subject** that quickly and uniquely identifies the problem.
 *   Write a **summary** of the problem in a few lines, giving an idea of what the issue is about.
 *   Then, **describe** the bug with all the information you can give.
     Be sure to include the following information:
