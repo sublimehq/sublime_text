@@ -1,7 +1,7 @@
-# New Home
+# Please Note
 
-This repository is now in a new location https://github.com/SublimeTextBugs/Issues . The Sublime Text forum is currently down, I'll post the announcement once is up again.
-
+- This repository is for **Sublime Text Core** bugs. For language-specific issues "Default Packages" See: https://github.com/SublimeTextBugs/DefaultPackages/issues
+ 
 # Sublime Text Bug and Issue Tracker
 
 Before writing a new issue, **[search for it](https://github.com/SublimeText/Issues/search?q=&type=Issues)** please, to check if it is already reported. **Please fill bug reports**, we encourage you to log properly every bug you found.
