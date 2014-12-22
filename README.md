@@ -1,7 +1,7 @@
 # Sublime Text -Core- Bug and Issue Tracker
 
+- For **Sublime Text Core** bugs. For language-specific issues("Default Packages") See: https://github.com/SublimeTextBugs/DefaultPackages/issues
 - Before writing a new issue, **[search for it](https://github.com/SublimeTextBugs/Issues/search?q=&type=Issues)** please, to check if it is already reported. **Please fill bug reports**, we encourage you to log properly every bug you found.
-- This repository is for **Sublime Text Core** bugs. For language-specific issues("Default Packages") See: https://github.com/SublimeTextBugs/DefaultPackages/issues
 - This is a bug tracker run by the community. For the inital idea, read this forum thead: http://www.sublimetext.com/forum/viewtopic.php?f=2&t=12095.
 
 
