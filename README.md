@@ -1,17 +1,13 @@
-# Please Note
-
-- This repository is for **Sublime Text Core** bugs. For language-specific issues "Default Packages" See: https://github.com/SublimeTextBugs/DefaultPackages/issues
- 
 # Sublime Text Bug and Issue Tracker
 
-Before writing a new issue, **[search for it](https://github.com/SublimeText/Issues/search?q=&type=Issues)** please, to check if it is already reported. **Please fill bug reports**, we encourage you to log properly every bug you found.
-
-This is a bug tracker run by the community. For the inital idea, read this forum thead: http://www.sublimetext.com/forum/viewtopic.php?f=2&t=12095.
+- Before writing a new issue, **[search for it](https://github.com/SublimeTextBugs/Issues/search?q=&type=Issues)** please, to check if it is already reported. **Please fill bug reports**, we encourage you to log properly every bug you found.
+- This repository is for **Sublime Text Core** bugs. For language-specific issues("Default Packages") See: https://github.com/SublimeTextBugs/DefaultPackages/issues
+- This is a bug tracker run by the community. For the inital idea, read this forum thead: http://www.sublimetext.com/forum/viewtopic.php?f=2&t=12095.
 
 
 ## The issue list
 
-Head straight to https://github.com/SublimeText/Issues/issues for a list of all issues or click `Issues` in the navigation bar above.
+Head straight to https://github.com/SublimeTextBugs/Issues/issues for a list of all issues or click `Issues` in the navigation bar above.
 
 
 ## Before creating a new issue
@@ -19,7 +15,7 @@ Head straight to https://github.com/SublimeText/Issues/issues for a list of all 
 *   Make sure it isn't a package that's causing the bug. Start with a [clean profile](http://www.sublimetext.com/docs/3/revert.html) if you need. 
 
     This repo is for *Sublime Text-related* bugs only. If your issue is related to a specific package or plugin, submit your report to that package's repository instead.
-*   Search for the bug [here](https://github.com/SublimeText/Issues/search?q=&type=Issues) to see if an issue like yours already exists. You may use labels for filterting the [issue list](https://github.com/SublimeText/Issues/issues) by clicking any of these related to the problem you want to report.
+*   Search for the bug [here](https://github.com/SublimeTextBugs/Issues/search?q=&type=Issues) to see if an issue like yours already exists. You may use labels for filterting the [issue list](https://github.com/SublimeTextBugs/Issues/issues) by clicking any of these related to the problem you want to report.
 
 
 ## Filing a bug
