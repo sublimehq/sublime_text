@@ -1,9 +1,5 @@
 # Sublime Text -Core- Bug and Issue Tracker
 
-- For **Sublime Text Core** bugs. For language-specific issues("Default Packages") See: https://github.com/SublimeTextBugs/DefaultPackages/issues
-- Before writing a new issue, **[search for it](https://github.com/SublimeTextBugs/Issues/search?q=&type=Issues)** please, to check if it is already reported. **Please fill bug reports**, we encourage you to log properly every bug you found.
-- This is a bug tracker run by the community. For the inital idea, read this forum thead: http://www.sublimetext.com/forum/viewtopic.php?f=2&t=12095.
-
 
 ## The issue list
 
@@ -12,10 +8,13 @@ Head straight to https://github.com/SublimeTextBugs/Issues/issues for a list of 
 
 ## Before creating a new issue
 
-*   Make sure it isn't a package that's causing the bug. Start with a [clean profile](http://www.sublimetext.com/docs/3/revert.html) if you need. 
+*   **This tracker is for issues with the Sublime Text *Core* only.**
 
-    This repo is for *Sublime Text-related* bugs only. If your issue is related to a specific package or plugin, submit your report to that package's repository instead.
-*   Search for the bug [here](https://github.com/SublimeTextBugs/Issues/search?q=&type=Issues) to see if an issue like yours already exists. You may use labels for filterting the [issue list](https://github.com/SublimeTextBugs/Issues/issues) by clicking any of these related to the problem you want to report.
+    For language-specific issues with the "Default Packages" (such as syntax highlighting), refer to the [Default Packages repository](https://github.com/SublimeTextIssues/DefaultPackages).
+    
+    For issues related to other packages, head over to the respective repository or contact its author. Start with a [clean profile](http://www.sublimetext.com/docs/3/revert.html) if you need to verify.
+
+*   Search for the issue [here](https://github.com/SublimeTextIssues/Core/search?q=&type=Issues) to check if it was already reported. You may use labels for filterting the [issue list](https://github.com/SublimeTextIssues/Core/issues) by clicking any of these related to the problem you want to report or request.
 
 
 ## Filing a bug
@@ -44,3 +43,7 @@ If you want to be really good at reporting bugs you can also read [these guideli
 *   Provide any other necessary or useful information regarding your issue, such as (code) examples or related links.
 
 Note: "enhancements" are modifications to existing behaviour as opposed to something entirely new.
+
+---
+
+This is a bug tracker run by the community. For the inital idea, read this forum thead: http://www.sublimetext.com/forum/viewtopic.php?f=2&t=12095.
