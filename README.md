@@ -47,3 +47,5 @@ Note: "enhancements" are modifications to existing behaviour as opposed to somet
 ---
 
 This is a bug tracker run by the community. For the inital idea, read this forum thead: http://www.sublimetext.com/forum/viewtopic.php?f=2&t=12095.
+
+If you would like to help maintain this issue list, head over to [this issue](https://github.com/SublimeTextIssues/Core/issues/614).
