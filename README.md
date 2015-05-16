@@ -1,4 +1,4 @@
-# Sublime Text -Core- Bug and Issue Tracker
+# Sublime Text - Core - Bug and Issue Tracker
 
 ## The issue list
 
