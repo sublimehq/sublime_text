@@ -8,7 +8,7 @@ Head straight to https://github.com/SublimeTextIssues/Core/issues for a list of 
 
 * **This tracker is for issues with the Sublime Text *Core* only.**
 
-    For language-specific issues with the "Default Packages" (such as syntax highlighting), refer to the [Default Packages repository](https://github.com/SublimeTextIssues/DefaultPackages).
+    For language-specific issues with the "Default Packages" (such as syntax highlighting), refer to the [official Packages repository](https://github.com/sublimehq/Packages).
 
     For issues related to other packages, head over to the respective repository or contact its author. Start with a [clean profile](http://www.sublimetext.com/docs/3/revert.html) if you need to verify.
 
