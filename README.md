@@ -2,7 +2,7 @@
 
 ## The issue list
 
-Head straight to https://github.com/SublimeTextIssues/Core/issues for a list of all issues or click `Issues` in the navigation bar on the right.
+Head straight to https://github.com/SublimeTextIssues/Core/issues for a list of all issues or click `Issues` in the navigation bar on the almost top.
 
 ## Before creating a new issue
 
