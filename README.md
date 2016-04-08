@@ -2,7 +2,9 @@
 
 ## The issue list
 
-Head straight to https://github.com/SublimeTextIssues/Core/issues for a list of all issues or click `Issues` in the navigation bar on the almost top.
+Head straight to https://github.com/SublimeTextIssues/Core/issues for a list of all issues or click `Issues` in the navigation bar on the almost-top.
+
+Use [Github's reactions feature](https://github.com/blog/2119-add-reactions-to-pull-requests-issues-and-comments) to vote on issues. Future "+1" comments with no further content will be deleted without notice.
 
 ## Before creating a new issue
 
@@ -25,12 +27,12 @@ Head straight to https://github.com/SublimeTextIssues/Core/issues for a list of 
     * Any related software which may cause ST to act strangely
 
     Also keep in mind to clearly separate fact from speculation.
-*   Try to find a way to **reproduce** the problem and write down precise steps. It might be useful to include a code example for this. **if a specific code produces the bug, try to share the code**
+*   Try to find a way to **reproduce** the problem and write down precise steps. It might be useful to include a *code example* for this.
 *   Workarounds or other related tips on how to avoid the issue are welcome.
 
-We won't slaughter you if you can't fulfill all of these steps but prepare to answer a few question if we think we're lacking information.
+We won't slaughter you if you can't fulfill all of these steps, but prepare to answer a few question if we think we're lacking information.
 
-If you want to be really good at reporting bugs you can also read [these guidelines](https://landfill.bugzilla.org/bugzilla-tip/page.cgi?id=bug-writing.html) for bugzilla bugs.
+If you want to be really good at reporting bugs, you can also read [these guidelines](https://landfill.bugzilla.org/bugzilla-tip/page.cgi?id=bug-writing.html) for bugzilla bugs.
 
 ## Filing an enhancement or a feature request
 
