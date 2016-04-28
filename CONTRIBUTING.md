@@ -2,8 +2,10 @@
 
 *   **This tracker is for issues with the Sublime Text *Core* only.**
 
-    For language-specific issues with the "Default Packages" (such as syntax highlighting), refer to the [Default Packages repository](https://github.com/SublimeTextIssues/DefaultPackages).
-    
+    This includes packages providing core functionality, such as `Default` or `Color Scheme - Default`, but excludes packages providing support for syntaxes/languages.
+
+    For language-specific issues with the "Default Language Packages" (which handle syntax highlighting and other language-related things), refer to the [Default Language Packages repository](https://github.com/sublimehq/Packages).
+
     For issues related to other packages, head over to the respective repository or contact its author. Start with a [clean profile](http://www.sublimetext.com/docs/3/revert.html) if you need to verify.
 
 *   Search for the issue [here](https://github.com/SublimeTextIssues/Core/search?q=&type=Issues) to check if it was already reported. You may use labels for filterting the [issue list](https://github.com/SublimeTextIssues/Core/issues) by clicking any of these related to the problem you want to report or request.
