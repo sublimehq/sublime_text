@@ -8,7 +8,7 @@
 
     For issues related to other packages, head over to the respective repository or contact its author. Start with a [clean profile](http://www.sublimetext.com/docs/3/revert.html) if you need to verify.
 
-*   Search for the issue [here](https://github.com/SublimeTextIssues/Core/search?q=&type=Issues) to check if it was already reported. You may use labels for filterting the [issue list](https://github.com/SublimeTextIssues/Core/issues) by clicking any of these related to the problem you want to report or request.
+*   Search for the issue [here](https://github.com/SublimeTextIssues/Core/search?q=&type=Issues) to check if it was already reported. You may use labels for filtering the [issue list](https://github.com/SublimeTextIssues/Core/issues) by clicking any of these related to the problem you want to report or request.
 
 
 ## Filing a bug
@@ -36,8 +36,8 @@ If you want to be really good at reporting bugs you can also read [these guideli
 *   Explain briefly what the enhancement is and why you think it would be useful.
 *   Provide any other necessary or useful information regarding your issue, such as (code) examples or related links.
 
-Note: "enhancements" are modifications to existing behaviour as opposed to something entirely new.
+Note: "enhancements" are modifications to existing behavior as opposed to something entirely new.
 
 ---
 
-This is a bug tracker run by the community. For the inital idea, read this forum thead: http://www.sublimetext.com/forum/viewtopic.php?f=2&t=12095.
+This is a bug tracker run by the community. For the initial idea, read this forum thread: http://www.sublimetext.com/forum/viewtopic.php?f=2&t=12095.

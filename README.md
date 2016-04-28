@@ -14,7 +14,7 @@ Use [Github's reactions feature](https://github.com/blog/2119-add-reactions-to-p
     
     For language-specific issues with the "Default Language Packages" (which handle syntax highlighting and other language-related things), refer to the [Default Language Packages repository](https://github.com/sublimehq/Packages).
 
-* Search for the issue [here](https://github.com/SublimeTextIssues/Core/search?q=&type=Issues) to check if it was already reported. You may use labels for filterting the [issue list](https://github.com/SublimeTextIssues/Core/issues) by clicking any of these related to the problem you want to report or request.
+* Search for the issue [here](https://github.com/SublimeTextIssues/Core/search?q=&type=Issues) to check if it was already reported. You may use labels for filtering the [issue list](https://github.com/SublimeTextIssues/Core/issues) by clicking any of these related to the problem you want to report or request.
 
 ## Filing a bug
 
@@ -40,7 +40,7 @@ If you want to be really good at reporting bugs, you can also read [these guidel
 *   Explain briefly what the enhancement is and why you think it would be useful.
 *   Provide any other necessary or useful information regarding your issue, such as (code) examples or related links.
 
-Note: "enhancements" are modifications to existing behaviour as opposed to something entirely new.
+Note: "enhancements" are modifications to existing behavior as opposed to something entirely new.
 
 ---
 
