@@ -33,7 +33,12 @@ Use [Github's reactions feature](https://github.com/blog/2119-add-reactions-to-p
 
 We won't slaughter you if you can't fulfill all of these steps, but prepare to answer a few questions if we think we're lacking information.
 
-If you want to be really good at reporting bugs, you can also read [these guidelines](https://landfill.bugzilla.org/bugzilla-tip/page.cgi?id=bug-writing.html) for bugzilla bugs.
+If you want to be really good at reporting bugs, you can also read **these guidelines** for bugzilla bugs:
+
+1. [Bugzilla User Guide- Reporting a New Bug](http://bugzilla.readthedocs.io/en/latest/using/filing.html)
+1. [Sourceware Bugzilla – Bug Writing Guidelines](https://sourceware.org/bugzilla/page.cgi?id=bug-writing.html)
+1. [Mozilla Software - Bug Writing Guidelines](https://developer.mozilla.org/en-US/docs/Mozilla/QA/Bug_writing_guidelines)
+
 
 ## Filing an enhancement or a feature request
 
