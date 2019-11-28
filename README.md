@@ -2,7 +2,7 @@
 
 ## The issue list
 
-Head straight to https://github.com/SublimeTextIssues/Core/issues for a list of all issues or click `Issues` in the navigation bar on the almost-top.
+Head straight to https://github.com/sublimehq/sublime_text/issues for a list of all issues or click `Issues` in the navigation bar on the almost-top.
 
 Use [Github's reactions feature](https://github.com/blog/2119-add-reactions-to-pull-requests-issues-and-comments) to vote on issues. Future "+1" comments with no further content will be deleted without notice.
 
@@ -14,7 +14,7 @@ Use [Github's reactions feature](https://github.com/blog/2119-add-reactions-to-p
     
     For language-specific issues with the "Default Language Packages" (which handle syntax highlighting and other language-related things), refer to the [Default Language Packages repository](https://github.com/sublimehq/Packages).
 
-* Search for the issue [here](https://github.com/SublimeTextIssues/Core/search?q=&type=Issues) to check if it was already reported. You may use labels for filtering the [issue list](https://github.com/SublimeTextIssues/Core/issues) by clicking any of these related to the problem you want to report or request.
+* Search for the issue [here](https://github.com/sublimehq/sublime_text/search?q=&type=Issues) to check if it was already reported. You may use labels for filtering the [issue list](https://github.com/sublimehq/sublime_text/issues) by clicking any of these related to the problem you want to report or request.
 
 ## Filing a bug
 
@@ -47,4 +47,4 @@ Note: "enhancements" are modifications to existing behavior as opposed to someth
 
 This is a bug tracker run by the community. For the initial idea, read this forum thread: http://web.archive.org/web/20150524043750/https://www.sublimetext.com/forum/viewtopic.php?f=2&t=12095.
 
-If you would like to help maintain this issue list, head over to [this issue](https://github.com/SublimeTextIssues/Core/issues/614).
+If you would like to help maintain this issue list, head over to [this issue](https://github.com/sublimehq/sublime_text/issues/614).
