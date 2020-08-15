@@ -4,7 +4,7 @@
 
 Head straight to https://github.com/sublimehq/sublime_text/issues for a list of all issues or click `Issues` in the navigation bar on the almost-top.
 
-Use [Github's reactions feature](https://github.com/blog/2119-add-reactions-to-pull-requests-issues-and-comments) to vote on issues. Future "+1" comments with no further content will be deleted without notice.
+Use [Github's reactions feature](https://github.com/blog/2119-add-reactions-to-pull-requests-issues-and-comments) to vote on issues. Simple "+1" comments with no further content will be deleted without notice.
 
 ## Before creating a new issue
 
@@ -12,7 +12,7 @@ Use [Github's reactions feature](https://github.com/blog/2119-add-reactions-to-p
 
     This includes packages providing core functionality, such as `Default` or `Color Scheme - Default`, but excludes packages providing support for syntaxes/languages.
     
-    For language-specific issues with the "Default Language Packages" (which handle syntax highlighting and other language-related things), refer to the [Default Language Packages repository](https://github.com/sublimehq/Packages).
+    For language-specific issues with the "Default Packages" (which handle syntax highlighting and other language-related things), refer to the [Default Packages repository](https://github.com/sublimehq/Packages).
 
 * Search for the issue [here](https://github.com/sublimehq/sublime_text/search?q=&type=Issues) to check if it was already reported. You may use labels for filtering the [issue list](https://github.com/sublimehq/sublime_text/issues) by clicking any of these related to the problem you want to report or request.
 
@@ -25,7 +25,7 @@ Use [Github's reactions feature](https://github.com/blog/2119-add-reactions-to-p
     * Operating System
     * The version of Sublime Text that you're using
     * Any related software which may cause ST to act strangely
-    * If relevant, does the bug occur with no packages installed / [with ST3 in a reverted/clean state](https://www.sublimetext.com/docs/3/revert.html)?
+    * If relevant, does the bug occur with no packages installed / [with ST in a reverted/clean state](https://www.sublimetext.com/docs/3/revert.html)?
 
     Also keep in mind to clearly separate fact from speculation.
 *   Try to find a way to **reproduce** the problem and write down precise steps. It might be useful to include a *code example* for this.
@@ -45,6 +45,5 @@ Note: "enhancements" are modifications to existing behavior as opposed to someth
 
 ---
 
-This is a bug tracker run by the community. For the initial idea, read this forum thread: http://web.archive.org/web/20150524043750/https://www.sublimetext.com/forum/viewtopic.php?f=2&t=12095.
-
-If you would like to help maintain this issue list, head over to [this issue](https://github.com/sublimehq/sublime_text/issues/614).
+This bug tracker was [initiated by the community](http://web.archive.org/web/20150524043750/https://www.sublimetext.com/forum/viewtopic.php?f=2&t=12095)
+and has since been adopted by Sublime Hq.
