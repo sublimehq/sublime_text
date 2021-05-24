@@ -25,7 +25,7 @@ Use [Github's reactions feature](https://github.com/blog/2119-add-reactions-to-p
     * Operating System
     * The version of Sublime Text that you're using
     * Any related software which may cause ST to act strangely
-    * If relevant, does the bug occur with no packages installed / [with ST in a reverted/clean state](https://www.sublimetext.com/docs/3/revert.html)?
+    * If relevant, does the bug occur with no packages installed / [with ST in safe mode](https://www.sublimetext.com/docs/safe_mode.html)?
 
     Also keep in mind to clearly separate fact from speculation.
 *   Try to find a way to **reproduce** the problem and write down precise steps. It might be useful to include a *code example* for this.
