@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Syntax highlighting bug report
+    url: https://github.com/sublimehq/Packages/issues/new/choose
+    about: Create a bug report over at the Packages repo if you are facing syntax highlighting issues.
