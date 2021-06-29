@@ -1,0 +1,30 @@
+---
+name: Enhancement or feature request.
+description: Suggest an enhancement or feature for Sublime Text core.
+body:
+- type: textarea
+  attributes:
+    label: Problem description
+    description: |
+      A description of a problem, workflow or integration that your suggestion would solve. If the problem is OS specific, include that information here.
+
+      1. Make sure that you first check if your feature/enhancement request hasn't already been reported. It saves a bit of work on our end.
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Preferred solution
+    description: "A description of what changes should be made to Sublime Text to solve the problem."
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Alternatives
+    description: "A description of any alternative solutions or enhancements considered."
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Additional Information (optional)
+    description: |
+      If applicable, add screenshots to help demonstrate the problem or proposed solution. Code examples or related links are useful, too.
