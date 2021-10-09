@@ -1,5 +1,5 @@
 ---
-name: Bug report.
+name: Bug report
 description: Create a bug report to help fix a problem with the Sublime Text core.
 body:
 - type: textarea

@@ -1,5 +1,5 @@
 ---
-name: Enhancement or feature request.
+name: Enhancement or feature request
 description: Suggest an enhancement or feature for Sublime Text core.
 body:
 - type: textarea
