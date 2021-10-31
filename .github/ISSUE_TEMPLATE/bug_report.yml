@@ -1,0 +1,78 @@
+---
+name: Bug report
+description: Create a bug report to help fix a problem with the Sublime Text core.
+body:
+- type: textarea
+  attributes:
+    label: Description of the bug
+    description: |
+      A description of what the bug is.
+      1. Make sure that you first check if your bug hasn't already been reported. It saves a bit of work on our end.
+      2. Please attach screenshots if they help in understanding the problem better. Don't host your images/videos/GIFs somewhere (e.g. Imgur) and share a link. Directly drag & drop here to avoid navigating to an external link.
+      3. Make sure to format any code samples using triple backticks. If the code sample happens to be large, share a gist/pastebin link instead.
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Steps to reproduce
+    description: "Please provide detailed steps on how the bug can be reproduced. Make sure to start ST in [safe mode](https://www.sublimetext.com/docs/safe_mode.html#) before jotting down the reproduction steps."
+    placeholder: |
+      1. Start ST in safe mode.
+      2. Second step.
+      3. Third step.
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Expected behavior
+    description: "A description of what you expected to happen."
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Actual behavior
+    description: "A description of what actually happened."
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: Sublime Text build number
+    placeholder: "e.g. 4107 - type 'Help: About' in the Command Palette"
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: Operating system & version
+    placeholder: "e.g. macOS 10.14, Windows 10, Ubuntu 18.04"
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: (Linux) Desktop environment and/or window manager
+    placeholder: "e.g. Gnome, LXDE, i3"
+- type: textarea
+  attributes:
+    label: Additional information
+    description: "You can jot down any additional information you consider relevant to the bug report."
+    placeholder: |
+      Examples could include
+
+      1. Information on some hardware you are using.
+      2. Are you using additional monitors ?
+      3. If the bug report happens to be GIT/VCS related, share what version of GIT or Sublime Merge you are using.
+      4. NTFS related issues could include details on the NTFS you are using.
+
+      You get the idea.
+- type: textarea
+  attributes:
+    label: OpenGL context information
+    description: "If your bug has something to do with hardware acceleration, then please share the OpenGL context information (which can be found by scrolling to the top of ST's console. You can open the console by pressing <kbd>ctrl + `</kbd>). You can find more information on ST's hardware acceleration feature [here](https://www.sublimetext.com/docs/gpu_rendering.html)."
+    placeholder: |
+      It should look something like the following
+
+      OpenGL Context Information:
+      GL API Version: 4.6.0 - Build 26.20.100.7870
+      GLSL Version: 4.60 - Build 26.20.100.7870
+      Vendor: Intel
+      Renderer: Intel(R) UHD Graphics
+    render: plain
