@@ -8,7 +8,7 @@ body:
     description: |
       A description of a problem, workflow or integration that your suggestion would solve. If the problem is OS specific, include that information here.
 
-      1. Make sure that you first check if your feature/enhancement request hasn't already been reported. It saves a bit of work on our end.
+      Make sure that you first check if your feature/enhancement request hasn't already been reported. It saves a bit of work on our end.
   validations:
     required: true
 - type: textarea
