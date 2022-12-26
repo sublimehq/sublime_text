@@ -7,6 +7,8 @@ Head straight to https://github.com/sublimehq/sublime_text/issues for a list of 
 Use [Github's reactions feature](https://github.com/blog/2119-add-reactions-to-pull-requests-issues-and-comments) to vote on issues.
 Simple "+1" comments with no further content will be deleted without notice.
 
+You can also use [labels](https://github.com/sublimehq/sublime_text/labels) to filter the list of issues.
+
 ## Before creating a new issue
 
 * **This tracker is for issues with the Sublime Text *Core* only.**
